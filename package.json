@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pull-npm-registry-updates": "^1.1.0",
+    "pull-stream": "^3.5.0"
+  }
+}
